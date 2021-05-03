@@ -7,7 +7,9 @@ The working is based on angle detection beteween three points
 we set criteria for every angle and according to the angle we get we sets accuracy that at what angle the pose is less accurate and at what angle the pose is more accurate.
 # Samples :
 ![Screenshot (322)](https://user-images.githubusercontent.com/77377586/116909463-df1da800-ac61-11eb-8f54-c770e659f1b0.png)
-
+#### The number of Curls that the person doing will be shown on the screen
+when person completes 1 curl then the number of curls showing on screen  will be increased by 1 using the loop 
+#### The percentage will be shown according to the angle increasing or decreasing 
 ![Screenshot (323)](https://user-images.githubusercontent.com/77377586/116909495-e775e300-ac61-11eb-9b8d-c37d1c1af40e.png)
 
 ![Screenshot (327)](https://user-images.githubusercontent.com/77377586/116909520-f0ff4b00-ac61-11eb-880a-c4c2c3a9eeb6.png)
